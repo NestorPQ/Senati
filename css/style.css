@@ -5,11 +5,12 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: brown;
     text-align: center;
+    background-color: rgb(136, 191, 165);
     
 }
 
 h1 {
     text-align: center;
-    color: blue;
+    color: rgb(131, 49, 172);
 
 }
